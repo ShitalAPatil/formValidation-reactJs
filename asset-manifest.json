@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/formValidation-reactJs/static/css/main.1d4ae801.css",
-    "main.js": "/formValidation-reactJs/static/js/main.51cd9312.js",
-    "static/js/787.4665b693.chunk.js": "/formValidation-reactJs/static/js/787.4665b693.chunk.js",
-    "index.html": "/formValidation-reactJs/index.html",
-    "main.1d4ae801.css.map": "/formValidation-reactJs/static/css/main.1d4ae801.css.map",
-    "main.51cd9312.js.map": "/formValidation-reactJs/static/js/main.51cd9312.js.map",
-    "787.4665b693.chunk.js.map": "/formValidation-reactJs/static/js/787.4665b693.chunk.js.map"
+    "main.css": "/Pincode-Lookup-App/static/css/main.5c633334.css",
+    "main.js": "/Pincode-Lookup-App/static/js/main.69b4296f.js",
+    "static/js/787.38981ee9.chunk.js": "/Pincode-Lookup-App/static/js/787.38981ee9.chunk.js",
+    "index.html": "/Pincode-Lookup-App/index.html",
+    "main.5c633334.css.map": "/Pincode-Lookup-App/static/css/main.5c633334.css.map",
+    "main.69b4296f.js.map": "/Pincode-Lookup-App/static/js/main.69b4296f.js.map",
+    "787.38981ee9.chunk.js.map": "/Pincode-Lookup-App/static/js/787.38981ee9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d4ae801.css",
-    "static/js/main.51cd9312.js"
+    "static/css/main.5c633334.css",
+    "static/js/main.69b4296f.js"
   ]
 }
